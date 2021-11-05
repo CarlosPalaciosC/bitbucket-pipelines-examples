@@ -19,6 +19,8 @@ Pipelines Executions:
 
 ![alt text](https://github.com/CarlosPalaciosC/bitbucket-pipelines-examples/blob/main/pipelineProduction.png?raw=true "Pipelines")
 
+![alt text](https://github.com/CarlosPalaciosC/bitbucket-pipelines-examples/blob/main/slackImage.png?raw=true "Slack")
+
 Deployments:
 ![alt text](https://github.com/CarlosPalaciosC/bitbucket-pipelines-examples/blob/main/deployment.png?raw=true "Deployments")
 
