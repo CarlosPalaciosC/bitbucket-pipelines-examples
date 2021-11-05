@@ -13,9 +13,15 @@ Problems that can be Solved:
 - Additionally:
   Adding slack notification step with the link of bitbucket pipelines to check and open URL to approve the deployment in a specific environment. ( Manual deployment of bitbucket pipelines )
 
-  [Pipelines Executions In Bitbucket Pipelines In public Repository](https://bitbucket.org/capalacios56/deploy-environments-in-parallel/addon/pipelines/home)
+Pipelines Executions:
 
-  
+![alt text](https://github.com/CarlosPalaciosC/bitbucket-pipelines-examples/blob/main/pipelineStaging.png?raw=true "Pipelines")
 
+![alt text](https://github.com/CarlosPalaciosC/bitbucket-pipelines-examples/blob/main/pipelineProduction.png?raw=true "Pipelines")
+
+Deployments:
+![alt text](https://github.com/CarlosPalaciosC/bitbucket-pipelines-examples/blob/main/deployment.png?raw=true "Deployments")
+
+[Pipelines Executions In Bitbucket Pipelines In public Repository](https://bitbucket.org/capalacios56/deploy-environments-in-parallel/addon/pipelines/home)
 
 ###
